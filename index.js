@@ -111,3 +111,6 @@ Find the airport codes for each of the cities in the vacation array and write a 
 hint - your function should include array, index and code as parameters
 you will need to invoke the function each time you wish to add a new code
 */
+function airportCodes(array, index, code){
+    
+}
